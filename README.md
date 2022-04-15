@@ -1,18 +1,19 @@
 # Monitor-CryptoBox
 Monitor temperature, barometric pressure and altitude using BMP280
 
-Why did I make this?
+## Why did I make this?
 I wanted to monitor the outside crypto box that I house some of my crypto miners that mostly use antenne's and radio frequencies to earn different cryptocurrencies.
 
 
-Hardware
-Software
+## Hardware
+* esp8266 nodemcu v3 1.0
+* bmp280
+## Software
+* Platform io
+* Thingspeak
 
-
-Web monitoring / charting:
-http://www.destructuring-bind.org/weatherstation/
-Static HTML page, served out of Github
-ThingSpeak / Highchart.js integration
+## Web monitoring / charting:
+[ThingSpeak](https://thingspeak.com/channels/1705241).
 
 
 Show me what you are working on?
