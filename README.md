@@ -1,7 +1,9 @@
 # Monitor-CryptoBox
-Monitor temperature, barometric pressure and humidity using BME280 and DS1820
+Monitor temperature, barometric pressure and altitude using BMP280
 
 Why did I make this?
+I wanted to monitor the outside crypto box that I house some of my crypto miners that mostly use antenne's and radio frequencies to earn different cryptocurrencies.
+
 
 Hardware
 Software
