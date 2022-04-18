@@ -33,10 +33,10 @@ I used Visual Studio Code together with the extension Platform io because I real
 Thingspeak is an easy and free to use platform to make something visual from raw data which is why I used it.
 
 ## Web monitoring / charting:
-[ThingSpeak Monitoring](https://thingspeak.com/channels/1705241).
+[ThingSpeak Monitoring page](https://thingspeak.com/channels/1705241).
 
 
-Sources:
+## Sources:
 https://pypi.org/project/RPi.bme280/
 https://github.com/rm-hull/weatherstation
 https://www.raspberrypi-spy.co.uk/2016/07/using-bme280-i2c-temperature-pressure-sensor-in-python/#:~:text=The%20BME280%20device%20is%20a,read%20the%20data%20using%20Python.
