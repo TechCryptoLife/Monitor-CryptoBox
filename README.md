@@ -1,5 +1,5 @@
 # Monitor-CryptoBox
-![Image of setup](https://github.com/TechCryptoLife/Monitor-CryptoBox/blob/main/pictures/IMG_0565.HEIC)
+![Image of setup](https://github.com/TechCryptoLife/Monitor-CryptoBox/blob/main/pictures/IMG_1029.jpg)
 Monitor temperature, barometric pressure and altitude using BMP280
 
 ## Why did I make this?
