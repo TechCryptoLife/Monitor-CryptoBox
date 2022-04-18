@@ -1,5 +1,6 @@
 # Monitor-CryptoBox
 ![Image of setup](https://github.com/TechCryptoLife/Monitor-CryptoBox/blob/main/pictures/IMG_1029.jpg)
+![Image of monitoring page](https://github.com/TechCryptoLife/Monitor-CryptoBox/blob/main/pictures/cryptobox.PNG)
 Monitoring temperature, barometric pressure and altitude using BMP280 and ESP8266
 
 ## Why did I make this?
