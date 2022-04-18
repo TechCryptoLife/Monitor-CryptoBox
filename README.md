@@ -5,7 +5,7 @@ Monitoring temperature, barometric pressure and altitude using BMP280 and ESP826
 ## Why did I make this?
 I wanted to monitor my self created CryptoBox that lives outside on the balcony. Inside the CrytoBox are some of my crypto miners that mostly use radio frequencies to earn different cryptocurrencies.
 
-I would like to better understanding what the conditions are inside my CryptoBox and know if it is safe to use without damaging the crypto miners hardware.
+I would like to better understanding what the conditions inside my CryptoBox are and know if it is safe to use without damaging the crypto miners hardware.
 
 As I said, I already had the self made CryptoBox created in an earlier stage, but I would really like to keep an eye on it using different sensors and data which is why this is an awesome and really usefull Data Science for Internet of Things project.
 
