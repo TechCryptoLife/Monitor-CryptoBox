@@ -11,12 +11,18 @@ As I said, I already had the self made CryptoBox created in an earlier stage, bu
 
 
 ## Hardware
+
 * ESP8266 nodemcu v3 1.0
+
 ![Image of ESP8266](https://github.com/TechCryptoLife/Monitor-CryptoBox/blob/main/pictures/7b74ebed6e86a9d72e1c1ee2b67b9f10d552dab5.jpg)
+
 The ESP8266 is a microcontroller that can connect to WiFi using the integrated WLAN adapter which makes it easy to send and retrieve data from.
 
+
 * BMP280
+
 ![Image of BMP280](https://github.com/TechCryptoLife/Monitor-CryptoBox/blob/main/pictures/DEBO_BMP280_01.png)
+
 BPM280 is a sensor which measures: temperature, barometric pressure and altitude
 
 ## Software
